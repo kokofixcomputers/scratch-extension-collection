@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BetterDiscord Plugin Collection</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <div class="logo">BetterDiscord Plugin Collection</div>
+        <p class="logosmall">by kokofixcomputers</p>
+        <nav></nav>
+    </div>
+
+    <br />
+
+    <div class="search-container">
+        <input type="text" id="search-bar" placeholder="🔎 Search plugins..." />
+        <a class="media2click"><img class="media2" id="refresh-button" title="Refresh" src="https://cdn.glitch.global/55794fc9-ea41-40cd-9757-2187a07e3c38/refresh-page-option.png?v=1711584104931"></a>
+        <br><a href="https://kokoapi.glitch.me/bd/form" target="_blank" id="addplugin" class="button download">Request Add Plugin</a>
+    </div>
+
+    <div class="tag-buttons-container"></div>
+
+    <!-- Modal for error messages -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close" id="closeyeah">&times;</span>
+                <h2>Error</h2>
+            </div>
+            <div class="modal-body">
+                <p>An error occurred while processing your request. Please try again later. Failed to fetch.</p>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-button">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for plugin info -->
+    <div id="plugin-info" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="closeyeah" id="close">&times;</span>
+                <img class="media" id="mediayeah" src="https://betterdiscord.app/resources/ui/content_thumbnail.svg">
+                <h2 id="titleyeah">Error</h2>
+            </div>
+            <div class="modal-body">
+                <p id="authoryeah"></p>
+                <p id="tagsyeah"></p>
+                <br>
+                <p id="infoyeah">An error occurred while processing your request. Please try again later. Failed to load.</p>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-button2">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Container for plugin cards -->
+    <div class="container" id="plugin-container"></div>
+
+    <!-- Include JavaScript -->
+    <script src="script.js"></script> <!-- Make sure this is at the end -->
+</body>
+</html>

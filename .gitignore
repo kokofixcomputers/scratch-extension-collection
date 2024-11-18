@@ -1,2 +1,4 @@
-./node_modules/*
-./history/*
+/node_modules/
+/.history/
+plugins1.txt
+.DS_Store

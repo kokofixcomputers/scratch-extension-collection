@@ -1,0 +1,628 @@
+
+Added Motion
+SharkPool
+New Motion related Blocks!
+Motion, Extension
+Added-Motion.js
+N/A
+N/A
+
+
+
+Advanced Messages
+SharkPool
+More Message Blocks that do cool stuff!
+NoTag
+Advanced-Messages.js
+N/A
+2.0.0
+
+
+
+Better Comments
+SharkPool
+Better Comments with More Customization
+NoTag
+Better-Comments.js
+N/A
+2.0.01
+
+
+
+Camera Sensing+
+SharkPool
+Better Camera Sensing Extension. Apply green screens and more!
+NoTag
+Camera-Sensing-Plus.js
+N/A
+2.0.0
+
+
+
+Animations
+SharkPool
+Play Animations for your Sprites
+NoTag
+Animations.js
+MIT
+2.0.01
+
+
+
+Better Input
+SharkPool
+Expansion of the "ask and wait" Blocks.
+NoTag
+Better-Input.js
+N/A
+4.2.11
+
+
+
+Captchas
+SharkPool
+Captchas to Check if Users are Human or not
+NoTag
+Captchas.js
+N/A
+1.0.2
+
+
+
+Community Spotlight
+SharkPool
+Display and Advertise Promotional Content for Free.
+NoTag
+Community-Spotlight.js
+MIT
+1.0.03
+
+
+
+DOM Selector
+SharkPool
+Read Elements and Create Events from the Website
+NoTag
+DOM-Selector.js
+N/A
+1.1.1
+
+
+
+Color Master
+SharkPool
+Color Utilities and Color Conversions
+NoTag
+Color-Master.js
+N/A
+N/A
+
+
+
+Fetch+
+SharkPool
+Fetch the content and progress of URLs in different encoded formats.
+NoTag
+Fetch-Progress.js
+N/A
+2.0.01
+
+
+
+Display Text
+SharkPool
+Display Text in Your Projects!
+NoTag
+Display-Text.js
+N/A
+1.4.4
+
+
+
+Font Manager
+0znzw <https://scratch.mit.edu/users/0znzw/>
+Add, Delete, and Manage Fonts
+NoTag
+Font-Manager.js
+N/A
+1.1.1
+
+
+
+Files Expanded
+SharkPool, GarboMuffin, Drago Cuven, 0znzw, and FurryR
+Read, upload, and download files.
+NoTag
+Files-Expanded.js
+N/A
+N/A
+
+
+
+Extra Controls
+SharkPool
+New Advanced Control Blocks
+NoTag
+Extra-Controls.js
+N/A
+1.6.0
+
+
+
+Geolocation
+SharkPool
+Get the Location of Users
+NoTag
+Geolocation.js
+N/A
+N/A
+
+
+
+Gamepad Expanded
+N/A
+Directly access gamepads instead of just mapping buttons to keys.
+NoTag
+Gamepad-Expanded.js
+N/A
+N/A
+
+
+
+Geometry Dash API
+SharkPool & GDColon (https://gdcolon.com)
+Fetch Geometry Dash statistics and information
+NoTag
+Geometry-Dash-API.js
+N/A
+1.5.2
+
+
+
+Google Spreadsheets
+SharkPool
+Fetch Spreadsheet Data
+NoTag
+Google-Spreadsheets.js
+N/A
+N/A
+
+
+
+GIF Manager
+SharkPool
+Create and Split GIF Files!
+NoTag
+GIF-Manager.js
+MIT
+1.0.0
+
+
+
+Hyper Sense
+SharkPool
+Cool New Sensing Blocks
+NoTag
+Hyper-Sense.js
+N/A
+N/A
+
+
+
+Image Effects
+SharkPool
+Apply a variety of new effects to the data URI of Images or Costumes.
+NoTag
+Image-Effects.js
+MIT
+2.5.01
+
+
+
+Image Editor
+SharkPool
+Create and Edit the Pixel Data of Images
+NoTag
+Image-Editor.js
+N/A
+1.1.21
+
+
+
+Lazy Collisions
+SharkPool, food
+Easy and Simple To Use Collision System for Sprites
+NoTag
+Lazy-Collisions.js
+N/A
+2.0.1
+
+
+
+JSON and Array
+SharkPool
+Super Fast JSON and Array Extension
+NoTag
+JSON-Array.js
+MIT
+1.0.3
+
+
+
+Layer Control
+SharkPool
+Relayer Pen, Video Camera, Backdrops, Sprites and More
+NoTag
+Layer-Control.js
+N/A
+1.1.2
+
+
+
+Messages+
+SharkPool
+New Powerful Message Blocks that work with Vanilla Blocks!
+NoTag
+Messages-Plus.js
+N/A
+N/A
+
+
+
+Money Utilities
+SharkPool
+Convert Currencies and get Currency Information
+NoTag
+Money-Utilities.js
+N/A
+N/A
+
+
+
+More Operators
+SharkPool
+More Powerful Operator Blocks
+NoTag
+More-Operators.js
+N/A
+1.2.01
+
+
+
+My Blocks+
+0znzw <https://scratch.mit.edu/users/0znzw/>
+Create Better Custom Blocks
+NoTag
+My-Blocks-Plus.js
+N/A
+1.0.1
+
+
+
+Variables Expanded
+SharkPool and DogeIsCut
+Expansion of Monitor Types and Variable Blocks.
+NoTag
+Monitors-Plus.js
+N/A
+N/A
+
+
+
+Newgrounds Audio
+SharkPool
+Fetch Audio Tracks from Newgrounds
+NoTag
+Newgrounds-Audio.js
+N/A
+2.0.0
+
+
+
+Particle Engine
+SharkPool
+Create powerful Particle Engines without Clones
+NoTag
+Particle-Engine.js
+MIT
+1.0.11
+
+
+
+Particle Tools
+SharkPool
+Tools for making particle engines easier.
+NoTag
+Particle-Tools.js
+N/A
+1.2.0
+
+
+
+Perlin Noise
+SharkPool
+Generate Perlin Noise
+NoTag
+Perlin-Noise.js
+N/A
+1.0.0
+
+
+
+Pause Utilities
+SharkPool
+Pause the Project and certain Scripts
+NoTag
+Pause-Utilities.js
+N/A
+1.7.03
+
+
+
+Pixel Utilities
+LittleBlueGamer
+Random Utility Blocks by LittleBlueGamer
+NoTag
+Pixel-Utilities.js
+N/A
+1.2.0
+
+
+
+QR Codes
+SharkPool
+Create and Read QR Codes
+NoTag
+QR-Codes.js
+N/A
+N/A
+
+
+
+Recording
+SharkPool
+Record your voice while you run your projects!
+NoTag
+Recording.js
+N/A
+N/A
+
+
+
+Renderer Control
+SharkPool
+Control Visuals of Sprites, Backdrops, Pen, Video, and More!
+NoTag
+Renderer-Control.js
+N/A
+1.2.0
+
+
+
+Runtime Events
+SharkPool
+Events from the Runtime
+NoTag
+Runtime-Events.js
+N/A
+1.2.01
+
+
+
+SVG Spritesheets
+SharkPool
+Create and Export SVG Spritesheets
+NoTag
+SVG-Spritesheets.js
+N/A
+N/A
+
+
+
+Scratch Utilities
+SharkPool
+Fetch data from Scratch!
+NoTag
+Scratch-Utilities.js
+N/A
+N/A
+
+
+
+Script Control
+SharkPool
+Control Scripts
+NoTag
+Script-Control.js
+N/A
+1.5.0
+
+
+
+Seeds
+SharkPool
+Generate random seeded numbers, generated terrain, and more!
+NoTag
+Seeds.js
+N/A
+2.0.0
+
+
+
+
+N/A
+
+NoTag
+Since-2000.js
+N/A
+N/A
+
+
+
+Sound Waves
+SharkPool
+Make sounds with oscillators!
+NoTag
+Sound-Waves.js
+N/A
+2.1.1
+
+
+
+Sharktilities
+SharkPool
+Various Utility Blocks for Various Operations
+NoTag
+Sharktilities.js
+N/A
+3.4.13
+
+
+
+Soundcloud API
+SharkPool
+Fetch Songs and Statistics from Soundcloud (Unofficial)
+NoTag
+SoundCloud-API.js
+N/A
+1.0.22
+
+
+
+Speech Bubbles
+SharkPool
+Customizable Speech Bubbles
+NoTag
+Speech-Bubbles.js
+N/A
+1.3.0
+
+
+
+Spotify API
+SharkPool
+Fetch Statistics and Information and Play Songs from Spotify
+NoTag
+Spotify.js
+N/A
+N/A
+
+
+
+Sprite Panel
+SharkPool & FurryR
+Complex Panel for Sprite and Clone Management
+NoTag
+Sprite-Panel.js
+MIT AND LGPLv3 License
+1.1.11
+
+
+
+Sprite Parenting
+SharkPool
+Link sprites together and make them follow the parent.
+NoTag
+Sprite-Parenting.js
+N/A
+N/A
+
+
+
+Text to Speech
+SharkPool
+Text to Speech using TikTok API
+NoTag
+Text-to-Speech.js
+N/A
+N/A
+
+
+
+Sprite Effects
+SharkPool
+Apply New Non-Vanilla Effects to Sprites and the Canvas!
+NoTag
+Sprite-Effects.js
+N/A
+1.7.1
+
+
+
+Sty-Lists
+SharkPool
+Customize and Organize Lists Monitors.
+NoTag
+Sty-Lists.js
+N/A
+N/A
+
+
+
+Tile Grids
+SharkPool
+Place Sprites on Grids.
+NoTag
+Tile-Grids.js
+N/A
+1.0.1
+
+
+
+Timezones
+ionslayer
+Utilities for Timezones and Time Convertion
+NoTag
+Timezones.js
+N/A
+1.0.0
+
+
+
+Time Calculation
+SharkPool
+Blocks for calculating and converting Time.
+NoTag
+Time-Calculation.js
+N/A
+2.0.2
+
+
+
+Tune Shark V3
+SharkPool
+Advanced Audio Engine, giving Complex Sound Control
+NoTag
+Tune-Shark-V3.js
+N/A
+3.3.1
+
+
+
+Turbo Skins
+SharkPool
+Quickly Render Sprites with other Images or Costumes
+NoTag
+Turbo-Skins.js
+MIT
+1.0.01
+
+
+
+Tune Shark (Legacy)
+SharkPool
+Advanced Sound Engine, inspired by LilyMakesThings
+NoTag
+Tune-Shark.js
+N/A
+2.6.1
+
+
+
+YouTube Operations
+SharkPool and Nekl300
+Fetch and play Youtube videos and statistics in your project.
+YouTube
+YouTube-Operations.js
+N/A
+1.7.11
