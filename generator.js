@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
 
 // Directory containing the plugin files
 const downloadsDir = path.join(__dirname, 'downloads');
@@ -15,6 +16,7 @@ function readPluginsFromFiles() {
         }
 
         const pluginsData = [];
+        let processedFilesCount = 0;
 
         // Process each file in the downloads directory
         files.forEach(file => {
@@ -36,9 +38,10 @@ function readPluginsFromFiles() {
                 let license = 'unknown'; // Default license if not found
                 let version = 'N/A'; // Default version if not found
                 let tags = 'NoTag'; // Default tags if not found
+                let media = ''; // Default media if not found
 
-                // Read up to the first 8 lines for metadata
-                for (let i = 0; i < Math.min(lines.length, 9); i++) {
+                // Read up to the first 10 lines for metadata
+                for (let i = 0; i < Math.min(lines.length, 10); i++) {
                     const line = lines[i].trim();
                     if (line.startsWith('// Name:')) {
                         name = line.replace('// Name:', '').trim();
@@ -54,7 +57,15 @@ function readPluginsFromFiles() {
                         version = line.replace('// Version V.', '').trim(); // Update version only if found
                     } else if (line.startsWith('// Tags:')) {
                         tags = line.replace('// Tags:', '').trim(); // Update tags only if found
+                    } else if (line.startsWith('// Thumbnail:')) {
+                        media = line.replace('// Thumbnail:', '').trim(); // Update media only if found
                     }
+                }
+
+                // If media is not found, construct the URL based on the filename without .js
+                if (!media) {
+                    const filenameWithoutJs = file.replace('.js', '');
+                    media = `https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/cdadece4b0a87c254276867c1cf4b8f5f64a4a4b/extension-thumbs/${filenameWithoutJs}.svg`;
                 }
 
                 // Construct the plugin entry
@@ -66,12 +77,15 @@ ${tags}
 ${file}
 ${license}
 ${version}
+${media}
+${media}
 `;
 
                 pluginsData.push(pluginEntry);
+                processedFilesCount++;
 
                 // Write to plugins.txt after processing all files
-                if (pluginsData.length === files.length) {
+                if (processedFilesCount === files.length) {
                     writePluginsToFile(pluginsData);
                 }
             });

@@ -60,6 +60,9 @@ function createPluginCard(name, description, author, tags, downloadUrl, license,
 
     const header = document.createElement("div");
     header.className = "card-header";
+    const img = document.createElement("div");
+    img.className = "card-media";
+    img.innerHTML = `<img src="${media}">`;
     
    header.innerHTML = `<h2>${name}</h2><p class='author'>Author: ${author}</p>`;
 
@@ -81,6 +84,7 @@ function createPluginCard(name, description, author, tags, downloadUrl, license,
    });
    
    body.appendChild(tagList);
+   
 
    const downloadButton = document.createElement("a");
    downloadButton.href = downloadUrl;
@@ -98,16 +102,8 @@ function createPluginCard(name, description, author, tags, downloadUrl, license,
    
    body.appendChild(licenseButton);
 
-   if (discordSupport && discordSupport.trim() !== '') {
-       const supportServerButton = document.createElement("a");
-       supportServerButton.href = discordSupport;
-       supportServerButton.className = "button dblue";
-       supportServerButton.textContent = "Discord Support Server";
-       supportServerButton.target = "_blank";
-       
-       body.appendChild(supportServerButton);
-   }
 
+   card.appendChild(img);
    card.appendChild(header);
    card.appendChild(version);
    card.appendChild(body);

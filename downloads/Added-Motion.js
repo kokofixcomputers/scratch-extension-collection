@@ -3,7 +3,8 @@
 // Description: New Motion related Blocks!
 // By: SharkPool
 // Tags: Motion, Extension
-//  Version 1.4.1
+// Version 1.4.1
+// Thumbnail: https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/cdadece4b0a87c254276867c1cf4b8f5f64a4a4b/extension-thumbs/Added-Motion.svg
 
 (function(Scratch) {
   "use strict";
