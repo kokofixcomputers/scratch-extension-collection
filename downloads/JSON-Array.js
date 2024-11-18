@@ -3,7 +3,7 @@
 // Description: Super Fast JSON and Array Extension
 // By: SharkPool
 // Licence: MIT
-// Tags: JSON
+// Tags: JSON, Data
 // Version V.1.0.3
 
 (function (Scratch) {
