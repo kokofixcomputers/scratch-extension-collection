@@ -20,5 +20,6 @@ Recommanded:
 // Tags: (tags, seperated by commas)
 // By: (Author, may contain commas if there are multiple. e.g. SharkPool)
 // Version V.(version. must contain V. without semicolom e.g. V.1.2.3)
+// License: (license. e.g. mit)
 ```
 
