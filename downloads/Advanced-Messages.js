@@ -2,7 +2,7 @@
 // ID: SPmessages
 // Description: More Message Blocks that do cool stuff!
 // By: SharkPool
-
+// Tags: Message
 // Version V.2.0.0
 
 (function (Scratch) {
