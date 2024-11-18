@@ -42,6 +42,20 @@ app.get('/download/:filename', (req, res) => {
     });
 });
 
+// New endpoint to serve raw files
+app.get('/raw/:filename', (req, res) => {
+    const filename = req.params.filename;
+    const filePath = path.join(__dirname, 'downloads', filename); // Adjust path as necessary
+
+    // Serve the file as plain text
+    res.sendFile(filePath, { headers: { 'Content-Type': 'text/plain' } }, (err) => {
+        if (err) {
+            console.error("Error serving raw file:", err);
+            res.status(404).send("File not found");
+        }
+    });
+});
+
 // Function to parse plugins from the text file
 function parsePlugins(data) {
     return data.trim().split("\n\n").map(pluginData => {

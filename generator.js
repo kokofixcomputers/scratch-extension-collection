@@ -33,7 +33,7 @@ function readPluginsFromFiles() {
                 let id = '';
                 let description = '';
                 let by = 'N/A'; // Default author if not found
-                let license = 'N/A'; // Default license if not found
+                let license = 'unknown'; // Default license if not found
                 let version = 'N/A'; // Default version if not found
                 let tags = 'NoTag'; // Default tags if not found
 
