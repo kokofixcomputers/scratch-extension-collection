@@ -2,7 +2,7 @@
 // ID: SPscripts
 // Description: Control Scripts
 // By: SharkPool
-
+// Tags: Manager
 // Version V.1.5.0
 
 (function (Scratch) {

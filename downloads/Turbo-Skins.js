@@ -1,6 +1,7 @@
 // Name: Turbo Skins
 // ID: SPturboSkins
 // Description: Quickly Render Sprites with other Images or Costumes
+// Tags: Utility, Effect
 // By: SharkPool
 // Licence: MIT
 // Inspired by Lily's Skins Extension!

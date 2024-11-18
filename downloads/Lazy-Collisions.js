@@ -1,5 +1,6 @@
 // Name: Lazy Collisions
 // ID: LZcollisionsSP
+// Tags: Effect
 // Description: Easy and Simple To Use Collision System for Sprites
 // By: SharkPool, food
 

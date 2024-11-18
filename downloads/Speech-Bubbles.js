@@ -2,7 +2,7 @@
 // ID: speechSP
 // Description: Customizable Speech Bubbles
 // By: SharkPool
-
+// Tags: Effect, Speech
 // Version V.1.3.0
 
 (function (Scratch) {

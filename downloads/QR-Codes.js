@@ -2,7 +2,7 @@
 // ID: SPqrCodes
 // Description: Create and Read QR Codes
 // By: SharkPool
-
+// Tags: Utility
 // Version 2.0.0
 
 (function (Scratch) {

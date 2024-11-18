@@ -2,7 +2,7 @@
 // ID: SPmoney
 // Description: Convert Currencies and get Currency Information
 // By: SharkPool
-
+// Tags: Utility
 //  Version 1.0.1
 
 (function (Scratch) {

@@ -2,7 +2,7 @@
 // ID: SPspriteParent
 // Description: Link sprites together and make them follow the parent.
 // By: SharkPool
-
+// Tags: Manager
 // Version 2.0.0
 
 (function (Scratch) {

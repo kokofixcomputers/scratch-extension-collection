@@ -4,7 +4,7 @@
 // By: SharkPool
 // By: 0znzw <https://scratch.mit.edu/users/0znzw/>
 // License: MIT
-
+// Tags: Manager, Font
 // Version V.1.1.1
 
 (function (Scratch) {

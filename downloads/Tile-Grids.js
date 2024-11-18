@@ -2,7 +2,7 @@
 // ID: SPgrids
 // Description: Place Sprites on Grids.
 // By: SharkPool
-
+// Tags: Effect
 // Version V.1.0.1
 
 (function (Scratch) {

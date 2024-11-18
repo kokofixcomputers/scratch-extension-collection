@@ -2,7 +2,7 @@
 // ID: filesExpanded
 // Description: Read, upload, and download files.
 // By: SharkPool, GarboMuffin, Drago Cuven, 0znzw, and FurryR
-
+// Tags: Expanded
 // Version 1.6.0
 
 (function (Scratch) {

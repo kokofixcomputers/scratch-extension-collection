@@ -2,7 +2,7 @@
 // ID: ParticleToolsSP
 // Description: Tools for making particle engines easier.
 // By: SharkPool
-
+// Tags: Particle, Effect
 // Version V.1.2.0
 
 (function (Scratch) {

@@ -2,7 +2,7 @@
 // ID: SPPause
 // Description: Pause the Project and certain Scripts
 // By: SharkPool
-
+// Tags: Utility
 // Version V.1.7.03
 
 (function (Scratch) {

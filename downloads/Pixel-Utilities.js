@@ -2,7 +2,7 @@
 // ID: lbgpixelutilities
 // Description: Random Utility Blocks by LittleBlueGamer
 // By: LittleBlueGamer
-
+// Tags: Utility, Render, Pixel
 // Version V.1.2.0
 
 (function(Scratch) {

@@ -2,7 +2,7 @@
 // ID: DICandSPmonitorsPlus
 // Description: Expansion of Monitor Types and Variable Blocks.
 // By: SharkPool and DogeIsCut
-
+// Tags: Data, Utility
 // Version 1.4.1
 
 (function (Scratch) {

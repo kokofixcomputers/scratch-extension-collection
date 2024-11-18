@@ -2,7 +2,7 @@
 // ID: SPsoundCloud
 // Description: Fetch Songs and Statistics from Soundcloud (Unofficial)
 // By: SharkPool
-
+// Tags: Sound
 // Version V.1.0.22
 
 /* !IMPORTANT!

@@ -2,7 +2,7 @@
 // ID: SPperlin
 // Description: Generate Perlin Noise
 // By: SharkPool
-
+// Tags: Effect
 // Version V.1.0.0
   
 (function(Scratch) {

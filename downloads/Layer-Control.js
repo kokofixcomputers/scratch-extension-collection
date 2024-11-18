@@ -2,7 +2,7 @@
 // ID: SPlayering
 // Description: Relayer Pen, Video Camera, Backdrops, Sprites and More
 // By: SharkPool
-
+// Tags: Manager
 // Version V.1.1.2
 
 (function (Scratch) {

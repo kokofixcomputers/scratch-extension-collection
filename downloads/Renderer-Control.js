@@ -2,7 +2,7 @@
 // ID: SPrenderControl
 // Description: Control Visuals of Sprites, Backdrops, Pen, Video, and More!
 // By: SharkPool
-
+// Tags: Manager, Render
 // Version V.1.2.0
 
 (function (Scratch) {

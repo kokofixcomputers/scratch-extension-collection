@@ -2,7 +2,7 @@
 // ID: SPtts
 // Description: Text to Speech using TikTok API
 // By: SharkPool
-
+// Tags: Sound, Speech, Utility
 // Version 1.1.0
 
 (function (Scratch) {

@@ -3,7 +3,7 @@
 // Description: Create and Edit the Pixel Data of Images
 // By: SharkPool
 // License: MIT
-
+// Tags: Effect
 // Version V.1.1.21
 
 (function (Scratch) {

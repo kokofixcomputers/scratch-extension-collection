@@ -2,7 +2,7 @@
 // ID: SPspotify
 // Description: Fetch Statistics and Information and Play Songs from Spotify
 // By: SharkPool
-
+// Tags: Sound
 // Version 1.2.0
 
 (function (Scratch) {

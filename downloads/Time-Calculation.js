@@ -2,7 +2,7 @@
 // ID: SPtimeCalc
 // Description: Blocks for calculating and converting Time.
 // By: SharkPool
-
+// Tags: Time
 // Version V.2.0.2
 
 // Excuse horrible naming of opcodes, this was made a LONG time ago and I cant change it

@@ -3,7 +3,7 @@
 // Description: Advanced Audio Engine, giving Complex Sound Control
 // By: SharkPool
 // License: MIT AND LGPL-3.0
-
+// Tags: Sound
 // Version V.3.3.1
 // Thanks to HOME for the song "Resonance" being used as the default audio link
 

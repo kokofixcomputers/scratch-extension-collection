@@ -1,6 +1,7 @@
 // Name: My Blocks+
 // ID: SPmbpCST
 // Description: Create Better Custom Blocks
+// Tags: Custom Blocks
 // By: SharkPool
 // By: CST1229 <https://scratch.mit.edu/users/CST1229/>
 // By: 0znzw <https://scratch.mit.edu/users/0znzw/>

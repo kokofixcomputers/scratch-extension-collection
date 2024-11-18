@@ -2,7 +2,7 @@
 // ID: SPsoundWaves
 // Description: Make sounds with oscillators!
 // By: SharkPool
-
+// Tags: Sound
 // Version V.2.1.1
 
 (function (Scratch) {

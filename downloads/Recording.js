@@ -2,7 +2,7 @@
 // ID: SPrecording
 // Description: Record your voice while you run your projects!
 // By: SharkPool
-
+// Tags: Recording, Sound, Utility
 // Version 1.1.4
 
 (function (Scratch) {

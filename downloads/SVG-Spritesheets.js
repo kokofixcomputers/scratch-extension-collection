@@ -2,7 +2,7 @@
 // ID: SPsvgSheets
 // Description: Create and Export SVG Spritesheets
 // By: SharkPool
-
+// Tags: Utility
 // Version 1.1.0
 
 (function (Scratch) {

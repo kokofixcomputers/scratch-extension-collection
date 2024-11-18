@@ -2,7 +2,7 @@
 // ID: iStimezones
 // Description: Utilities for Timezones and Time Convertion
 // By: ionslayer
-
+// Tags: Utility, Time
 // Version V.1.0.0
 
 (function (Scratch) {

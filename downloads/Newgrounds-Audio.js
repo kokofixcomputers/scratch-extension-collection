@@ -2,7 +2,7 @@
 // ID: SPaudioNG
 // Description: Fetch Audio Tracks from Newgrounds
 // By: SharkPool
-
+// Tags: Sound
 // Version V.2.0.0
 
 (function (Scratch) {

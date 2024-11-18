@@ -3,7 +3,7 @@
 // Description: Complex Panel for Sprite and Clone Management
 // Licence: MIT AND LGPLv3 License
 // By: SharkPool & FurryR
-
+// Tags: Manager
 // Version V.1.1.11
 
 (function (Scratch) {

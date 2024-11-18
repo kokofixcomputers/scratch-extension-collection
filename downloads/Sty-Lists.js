@@ -2,7 +2,7 @@
 // ID: SPlistMonitors
 // Description: Customize and Organize Lists Monitors.
 // By: SharkPool
-
+// Tags: Effect, List
 // Version 2.1.0
 
 (function (Scratch) {

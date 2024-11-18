@@ -3,7 +3,7 @@
 // Description: Create and Split GIF Files!
 // By: SharkPool
 // Licence: MIT
-
+// Tags: Manager
 // Version V.1.0.0
 
 (function (Scratch) {

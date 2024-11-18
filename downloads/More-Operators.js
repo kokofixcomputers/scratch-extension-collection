@@ -2,7 +2,7 @@
 // ID: SPmoreOPs
 // Description: More Powerful Operator Blocks
 // By: SharkPool
-
+// Tags: Expanded
 // Version V.1.2.01
 
 (function (Scratch) {

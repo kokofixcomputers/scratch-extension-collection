@@ -2,7 +2,7 @@
 // ID: SPevents
 // Description: Events from the Runtime
 // By: SharkPool
-
+// Tags: Utility
 // Version V.1.2.01
 
 (function (Scratch) {

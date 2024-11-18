@@ -2,7 +2,7 @@
 // ID: SPmessagePlus
 // Description: New Powerful Message Blocks that work with Vanilla Blocks!
 // By: SharkPool
-
+// Tags: Message
 // Version 1.3.1
 
 (function (Scratch) {

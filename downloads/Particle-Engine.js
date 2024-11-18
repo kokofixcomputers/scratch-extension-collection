@@ -3,7 +3,7 @@
 // Description: Create powerful Particle Engines without Clones
 // By: SharkPool
 // Licence: MIT
-
+// Tags: Particle, Engine, Effect
 // Version V.1.0.11
 
 (function (Scratch) {

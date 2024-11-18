@@ -3,7 +3,7 @@
 // Description: Apply a variety of new effects to the data URI of Images or Costumes.
 // By: SharkPool
 // Licence: MIT
-
+// Tags: Effect
 // Version V.2.5.01
 
 (function (Scratch) {

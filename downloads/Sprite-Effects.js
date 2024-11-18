@@ -2,7 +2,7 @@
 // ID: SPspriteEffects
 // Description: Apply New Non-Vanilla Effects to Sprites and the Canvas!
 // By: SharkPool
-
+// Tags: Effect
 // Version V.1.7.1
 
 (function (Scratch) {

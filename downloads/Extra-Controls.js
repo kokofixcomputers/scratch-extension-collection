@@ -2,7 +2,7 @@
 // ID: SPadvControl
 // Description: New Advanced Control Blocks
 // By: SharkPool
-
+// Tags: Expanded
 // Version V.1.6.0
 
 (function (Scratch) {

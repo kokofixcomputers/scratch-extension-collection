@@ -2,7 +2,7 @@
 // ID: SPscratchUtilities
 // Description: Fetch data from Scratch!
 // By: SharkPool
-
+// Tags: Utility
 // Version 2.4.1
 
 (function (Scratch) {

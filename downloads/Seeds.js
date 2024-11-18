@@ -2,7 +2,7 @@
 // ID: SeedsSP
 // Description: Generate random seeded numbers, generated terrain, and more!
 // By: SharkPool
-
+// Tags: Utility, Terrain
 // Version V.2.0.0
   
 (function(Scratch) {
