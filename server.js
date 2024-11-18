@@ -10,6 +10,8 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
+app.disable('x-powered-by');
+
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, 'public')));
 
@@ -27,6 +29,10 @@ app.get('/api/plugins', (req, res) => {
 // Serve the MIT license HTML file at /license/mit
 app.get('/MIT', (req, res) => {
     res.sendFile(path.join(__dirname, 'license', 'mit.html')); // Adjust path as necessary
+});
+// Serve the MIT license HTML file at /license/mit
+app.get('/unknown', (req, res) => {
+    res.sendFile(path.join(__dirname, 'license', 'unknown.html')); // Adjust path as necessary
 });
 
 // Endpoint to handle file downloads

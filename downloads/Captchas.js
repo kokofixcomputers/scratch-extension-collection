@@ -2,7 +2,7 @@
 // ID: SPcaptcha
 // Description: Captchas to Check if Users are Human or not
 // By: SharkPool
-
+// Tags: Utility
 // Version V.1.0.2
 
 (function (Scratch) {

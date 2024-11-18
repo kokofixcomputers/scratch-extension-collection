@@ -2,7 +2,7 @@
 // ID: SPcolorMaster
 // Description: Color Utilities and Color Conversions
 // By: SharkPool
-
+// Tags: Utility
 // Version 1.3.1
 
 (function (Scratch) {
