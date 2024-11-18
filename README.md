@@ -27,3 +27,11 @@ Clone this repo
 Then, Add your extension to the downloads folder in the repo.
 
 Open a pull request.
+
+## Running
+To run the code, Run these commands:
+```bash
+npm install
+node server.js
+```
+The application should now be running on port 3000
