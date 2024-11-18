@@ -65,7 +65,7 @@ function readPluginsFromFiles() {
                 // If media is not found, construct the URL based on the filename without .js
                 if (!media) {
                     const filenameWithoutJs = file.replace('.js', '');
-                    media = `https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/cdadece4b0a87c254276867c1cf4b8f5f64a4a4b/extension-thumbs/${filenameWithoutJs}.svg`;
+                    media = `https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/${filenameWithoutJs}.svg`;
                 }
 
                 // Construct the plugin entry
