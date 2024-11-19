@@ -2,7 +2,7 @@
 // ID: webrtc
 // Description: Barebones WebRTC implementation for Scratch 3
 // By: MikeDEV
-// License: MIT
+// Licence: MIT
 
 /*
 Barebones WebRTC extension for Scratch 3
