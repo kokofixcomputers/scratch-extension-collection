@@ -28,17 +28,18 @@ app.get('/api/plugins', (req, res) => {
 
 // Serve the MIT license HTML file at /license/mit
 app.get('/MIT', (req, res) => {
-    res.sendFile(path.join(__dirname, 'license', 'mit.html')); // Adjust path as necessary
+    res.sendFile(path.join(__dirname, 'license', 'mit.html'));
 });
-// Serve the MIT license HTML file at /license/mit
+
+// Serve the unknown license HTML file
 app.get('/unknown', (req, res) => {
-    res.sendFile(path.join(__dirname, 'license', 'unknown.html')); // Adjust path as necessary
+    res.sendFile(path.join(__dirname, 'license', 'unknown.html'));
 });
 
 // Endpoint to handle file downloads
 app.get('/download/:filename', (req, res) => {
     const filename = req.params.filename;
-    const filePath = path.join(__dirname, 'downloads', filename); // Assuming you have a 'downloads' folder
+    const filePath = path.join(__dirname, 'downloads', filename);
 
     res.download(filePath, filename, (err) => {
         if (err) {
@@ -51,7 +52,7 @@ app.get('/download/:filename', (req, res) => {
 // New endpoint to serve raw files
 app.get('/raw/:filename', (req, res) => {
     const filename = req.params.filename;
-    const filePath = path.join(__dirname, 'downloads', filename); // Adjust path as necessary
+    const filePath = path.join(__dirname, 'downloads', filename);
 
     // Serve the file as plain text
     res.sendFile(filePath, { headers: { 'Content-Type': 'text/plain' } }, (err) => {
@@ -67,27 +68,24 @@ function parsePlugins(data) {
     return data.trim().split("\n\n").map(pluginData => {
         const parts = pluginData.split("\n");
         
-        // Check if we have enough parts to avoid accessing undefined indexes
         if (parts.length < 5) {
             console.error("Plugin entry is missing information:", parts);
-            return null; // Return null for invalid entries
+            return null;
         }
 
         return {
             name: parts[0],
             author: parts[1],
             description: parts[2],
-            tags: parts[3] ? parts[3].split(",").map(tag => tag.trim()) : [], // Handle missing tags gracefully
-            downloadUrl: `/download/${parts[4]}`, // Assuming the 5th line is the filename for download
-            license: parts[5] || '', // Default to empty string if missing
-            version: parts[6] || 'N/A', // Default to 'N/A' if missing
-            discordSupport: parts[7] || '', // Default to empty string if missing
-            media: parts[8] || '' // Default to empty string if missing
+            tags: parts[3] ? parts[3].split(",").map(tag => tag.trim()) : [],
+            downloadUrl: `/download/${parts[4]}`,
+            license: parts[5] || '',
+            version: parts[6] || 'N/A',
+            discordSupport: parts[7] || '',
+            media: parts[8] || ''
         };
-    }).filter(plugin => plugin !== null); // Filter out any null entries due to errors
+    }).filter(plugin => plugin !== null);
 }
 
-// Start the server on 0.0.0.0
-app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server is running on http://0.0.0.0:${PORT}`);
-});
+// Export the app for Vercel
+module.exports = app;
