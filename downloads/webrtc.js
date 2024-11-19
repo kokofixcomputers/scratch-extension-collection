@@ -3,7 +3,7 @@
 // Description: Barebones WebRTC implementation for Scratch 3
 // By: MikeDEV
 // Licence: MIT
-
+// Tags: Message
 /*
 Barebones WebRTC extension for Scratch 3
 

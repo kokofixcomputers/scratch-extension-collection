@@ -3,7 +3,7 @@
 // Description: Better Comments with More Customization
 // By: SharkPool
 // License: MIT
-
+// Tags: Expanded, Comment
 // Version V.2.0.01
 
 (function (Scratch) {

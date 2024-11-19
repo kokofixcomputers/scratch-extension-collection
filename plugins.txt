@@ -1,13 +1,13 @@
 
-Advanced Messages
+Animations
 SharkPool
-More Message Blocks that do cool stuff!
-Message
-Advanced-Messages.js
-unknown
-2.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Advanced-Messages.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Advanced-Messages.svg
+Play Animations for your Sprites
+Effect
+Animations.js
+MIT
+2.0.01
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Animations.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Animations.svg
 
 
 
@@ -35,22 +35,22 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Animations
+Advanced Messages
 SharkPool
-Play Animations for your Sprites
-NoTag
-Animations.js
-MIT
-2.0.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Animations.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Animations.svg
+More Message Blocks that do cool stuff!
+Message
+Advanced-Messages.js
+unknown
+2.0.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Advanced-Messages.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Advanced-Messages.svg
 
 
 
 Better Comments
 SharkPool
 Better Comments with More Customization
-NoTag
+Expanded, Comment
 Better-Comments.js
 unknown
 2.0.01
@@ -62,24 +62,12 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 Better Input
 SharkPool
 Expansion of the "ask and wait" Blocks.
-NoTag
+Expanded, Input, Data
 Better-Input.js
 unknown
 4.2.11
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Better-Input.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Better-Input.svg
-
-
-
-Camera Sensing+
-SharkPool
-Better Camera Sensing Extension. Apply green screens and more!
-NoTag
-Camera-Sensing-Plus.js
-unknown
-2.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Camera-Sensing-Plus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Camera-Sensing-Plus.svg
 
 
 
@@ -95,10 +83,22 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
+Camera Sensing+
+SharkPool
+Better Camera Sensing Extension. Apply green screens and more!
+Expanded, Camera, Sensing, Video, Effect
+Camera-Sensing-Plus.js
+unknown
+2.0.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Camera-Sensing-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Camera-Sensing-Plus.svg
+
+
+
 Community Spotlight
 SharkPool
 Display and Advertise Promotional Content for Free.
-NoTag
+Advertisement, Community
 Community-Spotlight.js
 MIT
 1.0.03
@@ -155,15 +155,15 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Extra Controls
-SharkPool
-New Advanced Control Blocks
+Files Expanded
+SharkPool, GarboMuffin, Drago Cuven, 0znzw, and FurryR
+Read, upload, and download files.
 Expanded
-Extra-Controls.js
+Files-Expanded.js
 unknown
-1.6.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Extra-Controls.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Extra-Controls.svg
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Files-Expanded.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Files-Expanded.svg
 
 
 
@@ -179,15 +179,15 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Files Expanded
-SharkPool, GarboMuffin, Drago Cuven, 0znzw, and FurryR
-Read, upload, and download files.
+Extra Controls
+SharkPool
+New Advanced Control Blocks
 Expanded
-Files-Expanded.js
+Extra-Controls.js
 unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Files-Expanded.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Files-Expanded.svg
+1.6.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Extra-Controls.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Extra-Controls.svg
 
 
 
@@ -206,7 +206,7 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 Google Spreadsheets
 SharkPool
 Fetch Spreadsheet Data
-NoTag
+Data, SpreadSheets
 Google-Spreadsheets.js
 unknown
 N/A
@@ -218,7 +218,7 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 Gamepad Expanded
 N/A
 Directly access gamepads instead of just mapping buttons to keys.
-NoTag
+Gamepad, Game, Expanded
 Gamepad-Expanded.js
 unknown
 N/A
@@ -242,7 +242,7 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 Geometry Dash API
 SharkPool & GDColon (https://gdcolon.com)
 Fetch Geometry Dash statistics and information
-NoTag
+Game
 Geometry-Dash-API.js
 unknown
 1.5.2
@@ -254,7 +254,7 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 Hyper Sense
 SharkPool
 Cool New Sensing Blocks
-NoTag
+Expanded
 Hyper-Sense.js
 unknown
 N/A
@@ -299,15 +299,15 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Layer Control
-SharkPool
-Relayer Pen, Video Camera, Backdrops, Sprites and More
-Manager
-Layer-Control.js
+Lazy Collisions
+SharkPool, food
+Easy and Simple To Use Collision System for Sprites
+Effect
+Lazy-Collisions.js
 unknown
-1.1.2
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Layer-Control.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Layer-Control.svg
+2.0.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Lazy-Collisions.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Lazy-Collisions.svg
 
 
 
@@ -335,18 +335,6 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Lazy Collisions
-SharkPool, food
-Easy and Simple To Use Collision System for Sprites
-Effect
-Lazy-Collisions.js
-unknown
-2.0.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Lazy-Collisions.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Lazy-Collisions.svg
-
-
-
 More Operators
 SharkPool
 More Powerful Operator Blocks
@@ -356,30 +344,6 @@ unknown
 1.2.01
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/More-Operators.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/More-Operators.svg
-
-
-
-Variables Expanded
-SharkPool and DogeIsCut
-Expansion of Monitor Types and Variable Blocks.
-Data, Utility
-Monitors-Plus.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Monitors-Plus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Monitors-Plus.svg
-
-
-
-My Blocks+
-0znzw <https://scratch.mit.edu/users/0znzw/>
-Create Better Custom Blocks
-Custom Blocks
-My-Blocks-Plus.js
-unknown
-1.0.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/My-Blocks-Plus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/My-Blocks-Plus.svg
 
 
 
@@ -395,15 +359,39 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Particle Engine
+My Blocks+
+0znzw <https://scratch.mit.edu/users/0znzw/>
+Create Better Custom Blocks
+Custom Blocks
+My-Blocks-Plus.js
+unknown
+1.0.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/My-Blocks-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/My-Blocks-Plus.svg
+
+
+
+Variables Expanded
+SharkPool and DogeIsCut
+Expansion of Monitor Types and Variable Blocks.
+Data, Utility
+Monitors-Plus.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Monitors-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Monitors-Plus.svg
+
+
+
+Layer Control
 SharkPool
-Create powerful Particle Engines without Clones
-Particle, Engine, Effect
-Particle-Engine.js
-MIT
-1.0.11
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Engine.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Engine.svg
+Relayer Pen, Video Camera, Backdrops, Sprites and More
+Manager
+Layer-Control.js
+unknown
+1.1.2
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Layer-Control.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Layer-Control.svg
 
 
 
@@ -416,6 +404,18 @@ unknown
 1.2.0
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Tools.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Tools.svg
+
+
+
+Particle Engine
+SharkPool
+Create powerful Particle Engines without Clones
+Particle, Engine, Effect
+Particle-Engine.js
+MIT
+1.0.11
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Engine.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Engine.svg
 
 
 
@@ -455,18 +455,6 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-QR Codes
-SharkPool
-Create and Read QR Codes
-Utility
-QR-Codes.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/QR-Codes.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/QR-Codes.svg
-
-
-
 Recording
 SharkPool
 Record your voice while you run your projects!
@@ -476,6 +464,18 @@ unknown
 N/A
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Recording.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Recording.svg
+
+
+
+QR Codes
+SharkPool
+Create and Read QR Codes
+Utility
+QR-Codes.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/QR-Codes.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/QR-Codes.svg
 
 
 
@@ -539,18 +539,6 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Sharktilities
-SharkPool
-Various Utility Blocks for Various Operations
-Utility
-Sharktilities.js
-unknown
-3.4.13
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sharktilities.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sharktilities.svg
-
-
-
 Seeds
 SharkPool
 Generate random seeded numbers, generated terrain, and more!
@@ -575,6 +563,18 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
+Sharktilities
+SharkPool
+Various Utility Blocks for Various Operations
+Utility
+Sharktilities.js
+unknown
+3.4.13
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sharktilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sharktilities.svg
+
+
+
 Sound Waves
 SharkPool
 Make sounds with oscillators!
@@ -584,18 +584,6 @@ unknown
 2.1.1
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sound-Waves.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sound-Waves.svg
-
-
-
-Speech Bubbles
-SharkPool
-Customizable Speech Bubbles
-Effect, Speech
-Speech-Bubbles.js
-unknown
-1.3.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Speech-Bubbles.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Speech-Bubbles.svg
 
 
 
@@ -623,6 +611,18 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
+Speech Bubbles
+SharkPool
+Customizable Speech Bubbles
+Effect, Speech
+Speech-Bubbles.js
+unknown
+1.3.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Speech-Bubbles.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Speech-Bubbles.svg
+
+
+
 Sprite Panel
 SharkPool & FurryR
 Complex Panel for Sprite and Clone Management
@@ -635,18 +635,6 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Sty-Lists
-SharkPool
-Customize and Organize Lists Monitors.
-Effect, List
-Sty-Lists.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sty-Lists.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sty-Lists.svg
-
-
-
 Sprite Effects
 SharkPool
 Apply New Non-Vanilla Effects to Sprites and the Canvas!
@@ -656,6 +644,18 @@ unknown
 1.7.1
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Effects.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Effects.svg
+
+
+
+Sty-Lists
+SharkPool
+Customize and Organize Lists Monitors.
+Effect, List
+Sty-Lists.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sty-Lists.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sty-Lists.svg
 
 
 
@@ -683,18 +683,6 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-Time Calculation
-SharkPool
-Blocks for calculating and converting Time.
-Time
-Time-Calculation.js
-unknown
-2.0.2
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Time-Calculation.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Time-Calculation.svg
-
-
-
 Tile Grids
 SharkPool
 Place Sprites on Grids.
@@ -704,6 +692,18 @@ unknown
 1.0.1
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tile-Grids.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tile-Grids.svg
+
+
+
+Time Calculation
+SharkPool
+Blocks for calculating and converting Time.
+Time
+Time-Calculation.js
+unknown
+2.0.2
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Time-Calculation.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Time-Calculation.svg
 
 
 
@@ -743,6 +743,18 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
+WebRTC
+MikeDEV
+Barebones WebRTC implementation for Scratch 3
+Message
+webrtc.js
+MIT
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/webrtc.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/webrtc.svg
+
+
+
 Tune Shark (Legacy)
 SharkPool
 Advanced Sound Engine, inspired by LilyMakesThings
@@ -755,30 +767,6 @@ https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/
 
 
 
-E2EE
-MikeDEV
-General-purpose E2EE extension for Scratch.
-NoTag
-e2ee.js
-MIT
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/e2ee.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/e2ee.svg
-
-
-
-WebRTC
-MikeDEV
-Barebones WebRTC implementation for Scratch 3
-NoTag
-webrtc.js
-MIT
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/webrtc.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/webrtc.svg
-
-
-
 YouTube Operations
 SharkPool and Nekl300
 Fetch and play Youtube videos and statistics in your project.
@@ -788,3 +776,15 @@ unknown
 1.7.11
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/YouTube-Operations.svg
 https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/YouTube-Operations.svg
+
+
+
+E2EE
+MikeDEV
+General-purpose E2EE extension for Scratch.
+Encryption, Data
+e2ee.js
+MIT
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/e2ee.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/e2ee.svg

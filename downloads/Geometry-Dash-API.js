@@ -2,7 +2,7 @@
 // ID: GDapiSP
 // Description: Fetch Geometry Dash statistics and information
 // By: SharkPool & GDColon (https://gdcolon.com)
-
+// Tags: Game
 // Version V.1.5.2
 
 // Thank you RobTop for Geometry Dash

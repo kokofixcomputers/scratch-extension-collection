@@ -3,7 +3,7 @@
 // Description: Play Animations for your Sprites
 // By: SharkPool
 // Licence: MIT
-
+// Tags: Effect
 // Version V.2.0.01
 
 (function (Scratch) {

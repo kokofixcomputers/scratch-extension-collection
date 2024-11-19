@@ -2,7 +2,7 @@
 // ID: BetterInputSP
 // Description: Expansion of the "ask and wait" Blocks.
 // By: SharkPool
-
+// Tags: Expanded, Input, Data
 // Version V.4.2.11
 
 (function (Scratch) {

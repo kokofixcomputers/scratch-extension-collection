@@ -2,7 +2,7 @@
 // ID: HyperSenseSP
 // Description: Cool New Sensing Blocks
 // By: SharkPool
-
+// Tags: Expanded
 // Version 3.0.2
 
 (function (Scratch) {

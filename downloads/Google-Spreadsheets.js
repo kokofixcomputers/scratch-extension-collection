@@ -2,7 +2,7 @@
 // ID: SPspreads
 // Description: Fetch Spreadsheet Data
 // By: SharkPool
-
+// Tags: Data, SpreadSheets
 // Version 1.2.0
 
 (function (Scratch) {

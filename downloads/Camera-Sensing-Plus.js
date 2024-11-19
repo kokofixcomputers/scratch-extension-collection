@@ -2,7 +2,7 @@
 // ID: CameraSensingPlusSP
 // Description: Better Camera Sensing Extension. Apply green screens and more!
 // By: SharkPool
-
+// Tags: Expanded, Camera, Sensing, Video, Effect
 // Version V.2.0.0
 
 (function(Scratch) {

@@ -2,6 +2,7 @@
 // ID: e2ee
 // Description: General-purpose E2EE extension for Scratch.
 // By: MikeDEV
+// Tags: Encryption, Data
 // Licence: MIT
 /*
 General-purpose E2EE extension for Scratch 3

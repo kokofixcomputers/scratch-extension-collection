@@ -3,7 +3,7 @@
 // Description: Display and Advertise Promotional Content for Free.
 // By: SharkPool
 // Licence: MIT
-
+// Tags: Advertisement, Community
 // Version V.1.0.03
 
 (function (Scratch) {
