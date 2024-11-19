@@ -65,7 +65,7 @@ function readPluginsFromFiles() {
                 // If media is not found, construct the URL based on the filename without .js
                 if (!media) {
                     const filenameWithoutJs = file.replace('.js', '');
-                    media = `https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/${filenameWithoutJs}.svg`;
+                    media = `https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/${filenameWithoutJs}.svg`;
                 }
 
                 // Construct the plugin entry

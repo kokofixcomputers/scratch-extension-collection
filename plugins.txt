@@ -1,4 +1,16 @@
 
+Advanced Messages
+SharkPool
+More Message Blocks that do cool stuff!
+Message
+Advanced-Messages.js
+unknown
+2.0.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Advanced-Messages.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Advanced-Messages.svg
+
+
+
 All Menus
 LilyMakesThings
 Every dropdown menu for each block, in one extension.
@@ -6,20 +18,8 @@ Menu
 AllMenus.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/AllMenus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/AllMenus.svg
-
-
-
-Advanced Messages
-SharkPool
-More Message Blocks that do cool stuff!
-NoTag
-Advanced-Messages.js
-unknown
-2.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Advanced-Messages.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Advanced-Messages.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/AllMenus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/AllMenus.svg
 
 
 
@@ -30,8 +30,8 @@ NoTag
 Animations.js
 MIT
 2.0.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Animations.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Animations.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Animations.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Animations.svg
 
 
 
@@ -42,44 +42,8 @@ Motion, Extension
 Added-Motion.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Added-Motion.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Added-Motion.svg
-
-
-
-Better Comments
-SharkPool
-Better Comments with More Customization
-NoTag
-Better-Comments.js
-unknown
-2.0.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Better-Comments.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Better-Comments.svg
-
-
-
-Captchas
-SharkPool
-Captchas to Check if Users are Human or not
-Utility
-Captchas.js
-unknown
-1.0.2
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Captchas.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Captchas.svg
-
-
-
-Camera Sensing+
-SharkPool
-Better Camera Sensing Extension. Apply green screens and more!
-NoTag
-Camera-Sensing-Plus.js
-unknown
-2.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Camera-Sensing-Plus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Camera-Sensing-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Added-Motion.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Added-Motion.svg
 
 
 
@@ -90,8 +54,32 @@ NoTag
 Better-Input.js
 unknown
 4.2.11
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Better-Input.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Better-Input.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Better-Input.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Better-Input.svg
+
+
+
+Camera Sensing+
+SharkPool
+Better Camera Sensing Extension. Apply green screens and more!
+NoTag
+Camera-Sensing-Plus.js
+unknown
+2.0.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Camera-Sensing-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Camera-Sensing-Plus.svg
+
+
+
+Better Comments
+SharkPool
+Better Comments with More Customization
+NoTag
+Better-Comments.js
+unknown
+2.0.01
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Better-Comments.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Better-Comments.svg
 
 
 
@@ -102,8 +90,20 @@ NoTag
 Community-Spotlight.js
 MIT
 1.0.03
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Community-Spotlight.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Community-Spotlight.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Community-Spotlight.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Community-Spotlight.svg
+
+
+
+Captchas
+SharkPool
+Captchas to Check if Users are Human or not
+Utility
+Captchas.js
+unknown
+1.0.2
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Captchas.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Captchas.svg
 
 
 
@@ -114,32 +114,8 @@ NoTag
 DOM-Selector.js
 unknown
 1.1.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/DOM-Selector.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/DOM-Selector.svg
-
-
-
-Color Master
-SharkPool
-Color Utilities and Color Conversions
-Utility
-Color-Master.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Color-Master.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Color-Master.svg
-
-
-
-Fetch+
-SharkPool
-Fetch the content and progress of URLs in different encoded formats.
-NoTag
-Fetch-Progress.js
-unknown
-2.0.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Fetch-Progress.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Fetch-Progress.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/DOM-Selector.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/DOM-Selector.svg
 
 
 
@@ -150,20 +126,20 @@ NoTag
 Display-Text.js
 unknown
 1.4.4
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Display-Text.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Display-Text.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Display-Text.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Display-Text.svg
 
 
 
-Font Manager
-0znzw <https://scratch.mit.edu/users/0znzw/>
-Add, Delete, and Manage Fonts
-Manager, Font
-Font-Manager.js
+Color Master
+SharkPool
+Color Utilities and Color Conversions
+Utility
+Color-Master.js
 unknown
-1.1.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Font-Manager.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Font-Manager.svg
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Color-Master.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Color-Master.svg
 
 
 
@@ -174,8 +150,20 @@ Expanded
 Extra-Controls.js
 unknown
 1.6.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Extra-Controls.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Extra-Controls.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Extra-Controls.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Extra-Controls.svg
+
+
+
+Fetch+
+SharkPool
+Fetch the content and progress of URLs in different encoded formats.
+NoTag
+Fetch-Progress.js
+unknown
+2.0.01
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Fetch-Progress.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Fetch-Progress.svg
 
 
 
@@ -186,8 +174,20 @@ Expanded
 Files-Expanded.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Files-Expanded.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Files-Expanded.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Files-Expanded.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Files-Expanded.svg
+
+
+
+Font Manager
+0znzw <https://scratch.mit.edu/users/0znzw/>
+Add, Delete, and Manage Fonts
+Manager, Font
+Font-Manager.js
+unknown
+1.1.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Font-Manager.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Font-Manager.svg
 
 
 
@@ -198,44 +198,8 @@ NoTag
 Gamepad-Expanded.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Gamepad-Expanded.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Gamepad-Expanded.svg
-
-
-
-Geolocation
-SharkPool
-Get the Location of Users
-NoTag
-Geolocation.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Geolocation.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Geolocation.svg
-
-
-
-GIF Manager
-SharkPool
-Create and Split GIF Files!
-Manager
-GIF-Manager.js
-MIT
-1.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/GIF-Manager.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/GIF-Manager.svg
-
-
-
-Geometry Dash API
-SharkPool & GDColon (https://gdcolon.com)
-Fetch Geometry Dash statistics and information
-NoTag
-Geometry-Dash-API.js
-unknown
-1.5.2
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Geometry-Dash-API.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Geometry-Dash-API.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Gamepad-Expanded.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Gamepad-Expanded.svg
 
 
 
@@ -246,8 +210,44 @@ NoTag
 Google-Spreadsheets.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Google-Spreadsheets.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Google-Spreadsheets.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Google-Spreadsheets.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Google-Spreadsheets.svg
+
+
+
+Geolocation
+SharkPool
+Get the Location of Users
+NoTag
+Geolocation.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Geolocation.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Geolocation.svg
+
+
+
+Geometry Dash API
+SharkPool & GDColon (https://gdcolon.com)
+Fetch Geometry Dash statistics and information
+NoTag
+Geometry-Dash-API.js
+unknown
+1.5.2
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Geometry-Dash-API.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Geometry-Dash-API.svg
+
+
+
+GIF Manager
+SharkPool
+Create and Split GIF Files!
+Manager
+GIF-Manager.js
+MIT
+1.0.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/GIF-Manager.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/GIF-Manager.svg
 
 
 
@@ -258,32 +258,8 @@ NoTag
 Hyper-Sense.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Hyper-Sense.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Hyper-Sense.svg
-
-
-
-Image Editor
-SharkPool
-Create and Edit the Pixel Data of Images
-Effect
-Image-Editor.js
-unknown
-1.1.21
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Image-Editor.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Image-Editor.svg
-
-
-
-JSON and Array
-SharkPool
-Super Fast JSON and Array Extension
-JSON, Data
-JSON-Array.js
-MIT
-1.0.3
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/JSON-Array.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/JSON-Array.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Hyper-Sense.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Hyper-Sense.svg
 
 
 
@@ -294,8 +270,8 @@ Effect
 Image-Effects.js
 MIT
 2.5.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Image-Effects.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Image-Effects.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Image-Effects.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Image-Effects.svg
 
 
 
@@ -306,20 +282,32 @@ Manager
 Layer-Control.js
 unknown
 1.1.2
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Layer-Control.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Layer-Control.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Layer-Control.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Layer-Control.svg
 
 
 
-Lazy Collisions
-SharkPool, food
-Easy and Simple To Use Collision System for Sprites
+Image Editor
+SharkPool
+Create and Edit the Pixel Data of Images
 Effect
-Lazy-Collisions.js
+Image-Editor.js
 unknown
-2.0.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Lazy-Collisions.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Lazy-Collisions.svg
+1.1.21
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Image-Editor.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Image-Editor.svg
+
+
+
+JSON and Array
+SharkPool
+Super Fast JSON and Array Extension
+JSON, Data
+JSON-Array.js
+MIT
+1.0.3
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/JSON-Array.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/JSON-Array.svg
 
 
 
@@ -330,20 +318,8 @@ Data, Utility
 Monitors-Plus.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Monitors-Plus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Monitors-Plus.svg
-
-
-
-Messages+
-SharkPool
-New Powerful Message Blocks that work with Vanilla Blocks!
-Message
-Messages-Plus.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Messages-Plus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Messages-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Monitors-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Monitors-Plus.svg
 
 
 
@@ -354,8 +330,32 @@ Utility
 Money-Utilities.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Money-Utilities.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Money-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Money-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Money-Utilities.svg
+
+
+
+Messages+
+SharkPool
+New Powerful Message Blocks that work with Vanilla Blocks!
+Message
+Messages-Plus.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Messages-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Messages-Plus.svg
+
+
+
+Lazy Collisions
+SharkPool, food
+Easy and Simple To Use Collision System for Sprites
+Effect
+Lazy-Collisions.js
+unknown
+2.0.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Lazy-Collisions.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Lazy-Collisions.svg
 
 
 
@@ -366,20 +366,8 @@ Custom Blocks
 My-Blocks-Plus.js
 unknown
 1.0.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/My-Blocks-Plus.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/My-Blocks-Plus.svg
-
-
-
-Newgrounds Audio
-SharkPool
-Fetch Audio Tracks from Newgrounds
-Sound
-Newgrounds-Audio.js
-unknown
-2.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Newgrounds-Audio.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Newgrounds-Audio.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/My-Blocks-Plus.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/My-Blocks-Plus.svg
 
 
 
@@ -390,8 +378,8 @@ Expanded
 More-Operators.js
 unknown
 1.2.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/More-Operators.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/More-Operators.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/More-Operators.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/More-Operators.svg
 
 
 
@@ -402,8 +390,20 @@ Particle, Engine, Effect
 Particle-Engine.js
 MIT
 1.0.11
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Particle-Engine.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Particle-Engine.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Engine.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Engine.svg
+
+
+
+Newgrounds Audio
+SharkPool
+Fetch Audio Tracks from Newgrounds
+Sound
+Newgrounds-Audio.js
+unknown
+2.0.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Newgrounds-Audio.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Newgrounds-Audio.svg
 
 
 
@@ -414,8 +414,8 @@ Particle, Effect
 Particle-Tools.js
 unknown
 1.2.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Particle-Tools.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Particle-Tools.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Tools.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Particle-Tools.svg
 
 
 
@@ -426,8 +426,8 @@ Utility
 Pause-Utilities.js
 unknown
 1.7.03
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Pause-Utilities.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Pause-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Pause-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Pause-Utilities.svg
 
 
 
@@ -438,20 +438,8 @@ Effect
 Perlin-Noise.js
 unknown
 1.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Perlin-Noise.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Perlin-Noise.svg
-
-
-
-QR Codes
-SharkPool
-Create and Read QR Codes
-Utility
-QR-Codes.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/QR-Codes.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/QR-Codes.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Perlin-Noise.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Perlin-Noise.svg
 
 
 
@@ -462,8 +450,20 @@ Utility, Render, Pixel
 Pixel-Utilities.js
 unknown
 1.2.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Pixel-Utilities.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Pixel-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Pixel-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Pixel-Utilities.svg
+
+
+
+QR Codes
+SharkPool
+Create and Read QR Codes
+Utility
+QR-Codes.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/QR-Codes.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/QR-Codes.svg
 
 
 
@@ -474,8 +474,8 @@ Recording, Sound, Utility
 Recording.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Recording.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Recording.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Recording.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Recording.svg
 
 
 
@@ -486,8 +486,8 @@ Manager, Render
 Renderer-Control.js
 unknown
 1.2.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Renderer-Control.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Renderer-Control.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Renderer-Control.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Renderer-Control.svg
 
 
 
@@ -498,8 +498,8 @@ Utility
 Runtime-Events.js
 unknown
 1.2.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Runtime-Events.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Runtime-Events.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Runtime-Events.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Runtime-Events.svg
 
 
 
@@ -510,8 +510,8 @@ Utility
 Scratch-Utilities.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Scratch-Utilities.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Scratch-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Scratch-Utilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Scratch-Utilities.svg
 
 
 
@@ -522,20 +522,8 @@ Utility
 SVG-Spritesheets.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/SVG-Spritesheets.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/SVG-Spritesheets.svg
-
-
-
-Script Control
-SharkPool
-Control Scripts
-Manager
-Script-Control.js
-unknown
-1.5.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Script-Control.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Script-Control.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/SVG-Spritesheets.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/SVG-Spritesheets.svg
 
 
 
@@ -546,20 +534,20 @@ Utility, Terrain
 Seeds.js
 unknown
 2.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Seeds.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Seeds.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Seeds.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Seeds.svg
 
 
 
-Sound Waves
+Script Control
 SharkPool
-Make sounds with oscillators!
-Sound
-Sound-Waves.js
+Control Scripts
+Manager
+Script-Control.js
 unknown
-2.1.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sound-Waves.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sound-Waves.svg
+1.5.0
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Script-Control.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Script-Control.svg
 
 
 
@@ -570,20 +558,8 @@ Utility
 Sharktilities.js
 unknown
 3.4.13
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sharktilities.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sharktilities.svg
-
-
-
-Soundcloud API
-SharkPool
-Fetch Songs and Statistics from Soundcloud (Unofficial)
-Sound
-SoundCloud-API.js
-unknown
-1.0.22
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/SoundCloud-API.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/SoundCloud-API.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sharktilities.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sharktilities.svg
 
 
 
@@ -594,8 +570,32 @@ Time, N/A
 Since-2000.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Since-2000.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Since-2000.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Since-2000.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Since-2000.svg
+
+
+
+Soundcloud API
+SharkPool
+Fetch Songs and Statistics from Soundcloud (Unofficial)
+Sound
+SoundCloud-API.js
+unknown
+1.0.22
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/SoundCloud-API.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/SoundCloud-API.svg
+
+
+
+Sound Waves
+SharkPool
+Make sounds with oscillators!
+Sound
+Sound-Waves.js
+unknown
+2.1.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sound-Waves.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sound-Waves.svg
 
 
 
@@ -606,8 +606,8 @@ Effect, Speech
 Speech-Bubbles.js
 unknown
 1.3.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Speech-Bubbles.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Speech-Bubbles.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Speech-Bubbles.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Speech-Bubbles.svg
 
 
 
@@ -618,8 +618,8 @@ Sound
 Spotify.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Spotify.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Spotify.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Spotify.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Spotify.svg
 
 
 
@@ -630,32 +630,8 @@ Manager
 Sprite-Panel.js
 MIT AND LGPLv3 License
 1.1.11
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sprite-Panel.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sprite-Panel.svg
-
-
-
-Sprite Effects
-SharkPool
-Apply New Non-Vanilla Effects to Sprites and the Canvas!
-Effect
-Sprite-Effects.js
-unknown
-1.7.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sprite-Effects.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sprite-Effects.svg
-
-
-
-Sty-Lists
-SharkPool
-Customize and Organize Lists Monitors.
-Effect, List
-Sty-Lists.js
-unknown
-N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sty-Lists.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sty-Lists.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Panel.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Panel.svg
 
 
 
@@ -666,8 +642,32 @@ Manager
 Sprite-Parenting.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sprite-Parenting.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Sprite-Parenting.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Parenting.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Parenting.svg
+
+
+
+Sprite Effects
+SharkPool
+Apply New Non-Vanilla Effects to Sprites and the Canvas!
+Effect
+Sprite-Effects.js
+unknown
+1.7.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Effects.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sprite-Effects.svg
+
+
+
+Sty-Lists
+SharkPool
+Customize and Organize Lists Monitors.
+Effect, List
+Sty-Lists.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sty-Lists.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Sty-Lists.svg
 
 
 
@@ -678,8 +678,8 @@ Sound, Speech, Utility
 Text-to-Speech.js
 unknown
 N/A
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Text-to-Speech.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Text-to-Speech.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Text-to-Speech.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Text-to-Speech.svg
 
 
 
@@ -690,8 +690,8 @@ Effect
 Tile-Grids.js
 unknown
 1.0.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Tile-Grids.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Tile-Grids.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tile-Grids.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tile-Grids.svg
 
 
 
@@ -702,20 +702,8 @@ Time
 Time-Calculation.js
 unknown
 2.0.2
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Time-Calculation.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Time-Calculation.svg
-
-
-
-Tune Shark V3
-SharkPool
-Advanced Audio Engine, giving Complex Sound Control
-Sound
-Tune-Shark-V3.js
-unknown
-3.3.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Tune-Shark-V3.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Tune-Shark-V3.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Time-Calculation.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Time-Calculation.svg
 
 
 
@@ -726,8 +714,8 @@ Utility, Time
 Timezones.js
 unknown
 1.0.0
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Timezones.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Timezones.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Timezones.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Timezones.svg
 
 
 
@@ -738,20 +726,8 @@ Utility, Effect
 Turbo-Skins.js
 MIT
 1.0.01
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Turbo-Skins.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Turbo-Skins.svg
-
-
-
-Tune Shark (Legacy)
-SharkPool
-Advanced Sound Engine, inspired by LilyMakesThings
-Sound
-Tune-Shark.js
-unknown
-2.6.1
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Tune-Shark.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/Tune-Shark.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Turbo-Skins.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Turbo-Skins.svg
 
 
 
@@ -762,5 +738,41 @@ YouTube
 YouTube-Operations.js
 unknown
 1.7.11
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/YouTube-Operations.svg
-https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/98e8bf43fefba7b7d172bd4514edbb1a9bdc7cc9/thumbs/YouTube-Operations.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/YouTube-Operations.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/YouTube-Operations.svg
+
+
+
+Tune Shark V3
+SharkPool
+Advanced Audio Engine, giving Complex Sound Control
+Sound
+Tune-Shark-V3.js
+unknown
+3.3.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tune-Shark-V3.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tune-Shark-V3.svg
+
+
+
+Tune Shark (Legacy)
+SharkPool
+Advanced Sound Engine, inspired by LilyMakesThings
+Sound
+Tune-Shark.js
+unknown
+2.6.1
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tune-Shark.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/Tune-Shark.svg
+
+
+
+WebRTC
+MikeDEV
+Barebones WebRTC implementation for Scratch 3
+NoTag
+webrtc.js
+unknown
+N/A
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/webrtc.svg
+https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/refs/heads/main/thumbs/webrtc.svg
